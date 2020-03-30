@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Cancel Account Suite" verbose="1">
+	<test name="-------------Cancel Account----------------">
+		<classes>
+			<class name="com.globant.web.tests.CancelAccount"></class>
+		</classes>
+	</test>
+</suite>
